@@ -13,7 +13,7 @@ print(my_bool)
 
 user_txt = str(input("Введите текст: "))
 user_int = int(input("Введите целое число: "))
-user_bool = bool(input("Введите Да или Нет: "))
+user_bool = bool(input("Введите любой символ: "))
 
 print(user_txt)
 
