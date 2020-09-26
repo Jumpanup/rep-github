@@ -145,3 +145,5 @@ lst = [upper_text(word) for word in user_text] # the upper_text is used for each
 user_text = " ".join(lst) # rewriting the user_text variable
 
 print(user_text)
+
+#end hw
