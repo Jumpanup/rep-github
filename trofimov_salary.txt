@@ -1,0 +1,4 @@
+Trofimov 35000
+Petrov 15000
+Sidorov 20000
+Smirnov 30000
